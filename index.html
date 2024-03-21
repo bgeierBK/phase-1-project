@@ -3,9 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>South Brooklyn Playground Database</title>
+    <link rel="stylesheet" href ="styles.css">
+    <script src="index.js"></script>
 </head>
 <body>
-    <ul id="list"></ul>
+    <div id="top">
+        <h2>South Brooklyn Playground Database</h2>
+        <p>Looking for a place to let your kids burn off some energy? Find a playground that fits what you need -- and then let people know what you thought of it!</p>
+    </div>
+    <div id="selector">
+        <h2>Do you need...</h2>
+        <form>
+            <label>Bathrooms?
+                <input type="radio" name="bathrooms" checked>Yes</input>
+                <input type="radio" name="bathrooms" checked>No</input>
+            </label>
+            <label>Wheelchair Access?
+                <input type="radio" name="wheelchair" checked>Yes</input>
+                <input type="radio" name="wheelchair" checked>No</input>
+            </label>
+            <label>Inclusive play elements?
+                <input type="radio" name="inclusive" checked>Yes</input>
+                <input type="radio" name="inclusive" checked>No</input>
+            </label>
+            <input type="submit" value="Find your playground!">
+        </form>
+    </div>
+    <div id="results">
+        <ul id="playgroundList">
+        </ul>
+    </div>
 </body>
 </html>
