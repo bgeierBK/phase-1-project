@@ -5,12 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>South Brooklyn Playground Database</title>
     <link rel="stylesheet" href ="styles.css">
-    <script src="index.js"></script>
+    <script defer src="index.js"></script>
 </head>
 <body>
     <div id="top">
         <h2>South Brooklyn Playground Database</h2>
         <p>Looking for a place to let your kids burn off some energy? Find a playground that fits what you need -- and then let people know what you thought of it!</p>
+    </div>
+    <div id="display">
+        <ul id="selectedPlayground">
+            <h3 id="playgroundName"></h3>
+            <img id="playgroundPhoto" src="" alt="photo of selected playground">
+            <li id="playgroundAddress"></li>
+            <li id="playgroundBathrooms"></li>
+            <li id="playgroundWheelchair"></li>
+            <li id="playgroundInclusive"></li>
+            <li id="playgroundAmenities"></li>
+        </ul>
     </div>
     <div id="selector">
         <h2>Do you need...</h2>
@@ -30,9 +41,11 @@
             <input type="submit" value="Find your playground!">
         </form>
     </div>
-    <div id="results">
-        <ul id="playgroundList">
-        </ul>
+    <div>
+        <div id="results">
+            <ul id="playgroundList">
+            </ul>
+        </div>
     </div>
 </body>
 </html>

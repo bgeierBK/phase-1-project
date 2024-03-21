@@ -2,11 +2,13 @@
 "playgrounds" : [
     {
         "id": 1,
-        "name": "JJ Byrne",
-        "location": "3rd St. between 4th and 5th Ave.",
+        "name": "JJ Byrne Playground",
+        "location": "3 St. between 4th Ave and 5th Ave",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches, handball, basketball",
+        "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/fABm_UdLrpI8JuQQS7w_Og/o.jpg"
 
 
     },
@@ -15,8 +17,10 @@
         "name": "Ennis Playground",
         "location": "11 St, 12 St between 2 Ave and 3 Ave",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -25,8 +29,10 @@
         "name": "Park Slope Playground",
         "location": "Berkeley Pl and Lincoln Pl between 5 Ave and 6 Ave",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -35,8 +41,10 @@
         "name": "Garfield Tot Lot",
         "location": "West Drive opposite Garfield Pl & Prospect Park W in Prospect Park",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -45,8 +53,10 @@
         "name": "Third Street Playground",
         "location": "4 St & Prospect Park W in Prospect Park",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -55,8 +65,10 @@
         "name": "Harmony Playground",
         "location": "11 St & Prospect Park W in Prospect Park",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -65,8 +77,10 @@
         "name": "Purple Playground",
         "location": "17 St between 5 Ave and 6 Ave",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -75,8 +89,10 @@
         "name": "Slope Park Playground",
         "location": "6 Ave between 18 St and 19 St",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -85,8 +101,10 @@
         "name": "Dean Playground",
         "location": "Dean St to Bergen St between 6 Ave and Carlton Ave",
         "bathrooms": "Yes, accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "No"
+        "wheelchair": "Yes",
+        "inclusive": "No",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -95,8 +113,10 @@
         "name": "Thomas Greene Playground",
         "location": "Nevins St, 3 Ave, between De Graw St and Douglas St",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -105,8 +125,10 @@
         "name": "North Pacific Playground",
         "location": "Pacific St between Nevins St and 3 Ave",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -115,8 +137,10 @@
         "name": "Sixteen Sycamores Playground",
         "location": "Schermerhorn St between Nevins St and 3 Ave",
         "bathrooms": "Yes, fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -125,8 +149,10 @@
         "name": "JJ Byrne",
         "location": "3rd St. between 4th and 5th Ave.",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -135,8 +161,10 @@
         "name": "Carroll Park",
         "location": "Court St, Smith St, between Carroll St and President St",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -145,8 +173,10 @@
         "name": "James Forten Playground",
         "location": "Underhill Ave between Prospect Pl and Park Pl",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "No"
+        "wheelchair": "Yes",
+        "inclusive": "No",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -155,8 +185,10 @@
         "name": "Stroud Playground",
         "location": "Sterling Pl to Park Pl between Classon Ave and Washington Ave",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -165,8 +197,10 @@
         "name": "JJ Byrne",
         "location": "3rd St. between 4th and 5th Ave.",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -175,8 +209,10 @@
         "name": "South Oxford Park",
         "location": "S. Oxford St between Commos and Atlantic Ave",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "No",
-        "inclusive play elements": "Yes"
+        "wheelchair": "No",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -185,8 +221,10 @@
         "name": "Cuyler Gore Park",
         "location": "Carlton Ave, Fulton St, Green Ave",
         "bathrooms": "No",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -195,8 +233,10 @@
         "name": "Edmonds Playground",
         "location": "Dekalb Ave between Adelphi St and Carlton Ave",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "No"
+        "wheelchair": "Yes",
+        "inclusive": "No",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -205,8 +245,10 @@
         "name": "Fort Greene Park Playground",
         "location": "DeKalb Ave & Washington Pk in Fort Greene Park",
         "bathrooms": "Yes, fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -215,8 +257,10 @@
         "name": "Fort Greene Playground",
         "location": "Myrtle Ave & St Edwards Plaza in Fort Greene Park",
         "bathrooms": "Yes, fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -225,8 +269,10 @@
         "name": "Mclaughlin Park",
         "location": "Jay St, Bridge St between Tillary St and Cathedral Pl",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -235,8 +281,10 @@
         "name": "Cobble Hill Park",
         "location": "Clinton St between Verandah Pl and Congress St",
         "bathrooms": "No",
-        "wheelchair access": "No",
-        "inclusive play elements": "Yes"
+        "wheelchair": "No",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     },
@@ -245,8 +293,10 @@
         "name": "St. Mary's Park",
         "location": "Smith St & Nelson St",
         "bathrooms": "Yes, not fully accessible",
-        "wheelchair access": "Yes",
-        "inclusive play elements": "Yes"
+        "wheelchair": "Yes",
+        "inclusive": "Yes",
+        "amenities": "Water features, drinking fountains, benches",
+        "photo": ""
 
 
     }
