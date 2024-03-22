@@ -15,9 +15,18 @@ fetch("http://localhost:3000/playgrounds")
         })
         })
         document.querySelector("#playgroundList").append(li)
-
-    })
-    populateMain(playgrounds[0])
+     })
+     document.querySelector("form").addEventListener("submit", event =>{
+        event.preventDefault();
+        document.querySelector("#playgroundList").innerHTML="";
+        const bathrooms = document.querySelector('input[name="bathrooms"]:checked').value
+        const wheelchair= document.querySelector('input[name="wheelchair"]:checked').value
+        const inclusive = document.querySelector('input[name="inclusive"]:checked').value
+     
+        console.log(bathrooms)
+        console.log(wheelchair)
+        console.log(inclusive)
+     })
 })
 
 function populateMain(playground){
