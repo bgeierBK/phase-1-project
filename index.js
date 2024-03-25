@@ -2,11 +2,13 @@ fetch("http://localhost:3000/playgrounds")
 .then(response=> response.json())
 .then(playgrounds=>{
     playgrounds.forEach(playground=>{
-        const li = document.createElement("li");
+        const li = document.createElement("li")
+        const address = document.createElement("li")
         li.textContent=playground.name;
-        li.setAttribute("id", "playground " + playground.id);
+        li.setAttribute("id", "playground " + playground.id)
+        li.setAttribute("class", "playground");
         li.addEventListener("mouseover", () =>{
-            li.textContent = (playground.name + ": " + playground.location)
+            li.innerHTML = (playground.name + "<br> " + playground.location)
         li.addEventListener("mouseout", ()=>{
             li.textContent = (playground.name)
         li.addEventListener("click", ()=>{
@@ -30,8 +32,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -54,8 +57,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -78,8 +82,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -102,8 +107,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -125,8 +131,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -148,8 +155,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -172,8 +180,9 @@ fetch("http://localhost:3000/playgrounds")
                 const li =document.createElement("li");
                 li.textContent = playground.name
                 li.setAttribute("id", "playground " + playground.id);
+                li.setAttribute("class", "playground");
                 li.addEventListener("mouseover", () =>{
-                    li.textContent = (playground.name + ": " + playground.location)
+                    li.innerHTML = (playground.name + "<br> " + playground.location)
                 li.addEventListener("mouseout", ()=>{
                     li.textContent = (playground.name)
                 li.addEventListener("click", ()=>{
@@ -193,8 +202,9 @@ fetch("http://localhost:3000/playgrounds")
             const li =document.createElement("li");
             li.textContent = playground.name
             li.setAttribute("id", "playground " + playground.id);
+            li.setAttribute("class", "playground");
             li.addEventListener("mouseover", () =>{
-                li.textContent = (playground.name + ": " + playground.location)
+                li.innerHTML = (playground.name + "<br> " + playground.location)
             li.addEventListener("mouseout", ()=>{
                 li.textContent = (playground.name)
             li.addEventListener("click", ()=>{
@@ -247,22 +257,4 @@ yesYesYes.forEach(playground =>{
     document.querySelector("#playgroundList").append(li)
 })
 
-function populateList(array){
-array.forEach(playground =>{
-    const li =document.createElement("li");
-    li.textContent = playground.name
-    li.setAttribute("id", "playground " + playground.id);
-    li.addEventListener("mouseover", () =>{
-        li.textContent = (playground.name + ": " + playground.location)
-    li.addEventListener("mouseout", ()=>{
-        li.textContent = (playground.name)
-    li.addEventListener("click", ()=>{
-        populateMain(playground)
-    })
-    })
-    })
 
-    document.querySelector("#playgroundList").append(li)
-})
-
-}
