@@ -19,8 +19,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/24301.jpg"
 
 
     },
@@ -31,8 +31,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Water features, spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/23929.jpg"
 
 
     },
@@ -43,8 +43,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Proximity to Prospect Park",
+        "photo": "https://lh3.googleusercontent.com/p/AF1QipP-8YnK0nsmPhtwFH27J_eWubnebUDqoZuDhqNN=s680-w680-h510"
 
 
     },
@@ -55,7 +55,7 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
+        "amenities": "https://fastly.4sqi.net/img/general/600x600/52_E4u774YbYd-PqWg4107XHSplsM9gUFMWgHNzRHTBaJE.jpg",
         "photo": ""
 
 
@@ -67,8 +67,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Water features, drinking fountains, exercise equipment",
+        "photo": "https://static.mommypoppins.com/styles/image300x250/s3/harmony-playground-dk.png?itok=k_3Rx24H"
 
 
     },
@@ -79,8 +79,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Benches, companion seating",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/19116.jpg"
 
 
     },
@@ -91,8 +91,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Water features, ramps, drinking fountains, benches, companion seating",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/19215.jpg"
 
 
     },
@@ -103,8 +103,8 @@
         "bathrooms": "Yes, accessible",
         "wheelchair": "Yes",
         "inclusive": "No",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts, handball courts",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18741.jpg"
 
 
     },
@@ -115,8 +115,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts, handball courts, outdoor pools",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/23590.jpg"
 
 
     },
@@ -127,8 +127,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Handball courts",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/19155.jpg"
 
 
     },
@@ -139,20 +139,20 @@
         "bathrooms": "Yes, fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts, handball courts, spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/19211.jpg"
 
 
     },
     {
         "id": 13,
-        "name": "JJ Byrne",
-        "location": "3rd St. between 4th and 5th Ave.",
-        "bathrooms": "Yes, not fully accessible",
+        "name": "Coffey Park Playground",
+        "location": "Verona St. bet. Richard St. and Dwight St.",
+        "bathrooms": "Yes, fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Water features, basketball courts, dog-friendly areass, handball courts, spray showers, Wi-Fi hotspots",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18673.jpg"
 
 
     },
@@ -163,8 +163,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Bocce courts, spray showers, Wi-Fi hotspots",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18630.jpg"
 
 
     },
@@ -175,8 +175,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "No",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Handball courts, spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/21227.jpg"
 
 
     },
@@ -187,20 +187,20 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts, handball courts, spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/24208.jpg"
 
 
     },
     {
         "id": 17,
-        "name": "JJ Byrne",
-        "location": "3rd St. between 4th and 5th Ave.",
+        "name": "Greene Playground",
+        "location": "Greene Ave. bet. Waverly Ave. and Washington Ave.",
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts, handball courts, spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18891.jpg"
 
 
     },
@@ -211,8 +211,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "No",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Tennis courts",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/4381.jpg"
 
 
     },
@@ -223,8 +223,8 @@
         "bathrooms": "No",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18732.jpg"
 
 
     },
@@ -235,8 +235,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "No",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Basketball courts",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18812.jpg"
 
 
     },
@@ -247,8 +247,8 @@
         "bathrooms": "Yes, fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Water features,benches",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/19600.jpg"
 
 
     },
@@ -260,7 +260,7 @@
         "wheelchair": "Yes",
         "inclusive": "Yes",
         "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "photo": "https://lh3.googleusercontent.com/p/AF1QipPoIesAsRDYHZqj_s98VjeRoQV7qL2kvGaQojch=s1360-w1360-h1020"
 
 
     },
@@ -271,8 +271,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Baseball fields, basketball courts, fitness equipment, handball courts, spray showers",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/19129.jpg"
 
 
     },
@@ -283,8 +283,8 @@
         "bathrooms": "No",
         "wheelchair": "No",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "None listed",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/18670.jpg"
 
 
     },
@@ -295,8 +295,8 @@
         "bathrooms": "Yes, not fully accessible",
         "wheelchair": "Yes",
         "inclusive": "Yes",
-        "amenities": "Water features, drinking fountains, benches",
-        "photo": ""
+        "amenities": "Baseball fields, basketball courts, football fields, handball courts, soccer fields",
+        "photo": "https://static.nycgovparks.org/images/photo_gallery/full_size/24844.jpg"
 
 
     }

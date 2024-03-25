@@ -228,3 +228,41 @@ function populateMain(playground){
     document.querySelector("#playgroundAmenities").textContent ="Amenities: " + playground.amenities
 }
 
+
+
+yesYesYes.forEach(playground =>{
+    const li =document.createElement("li");
+    li.textContent = playground.name
+    li.setAttribute("id", "playground " + playground.id);
+    li.addEventListener("mouseover", () =>{
+        li.textContent = (playground.name + ": " + playground.location)
+    li.addEventListener("mouseout", ()=>{
+        li.textContent = (playground.name)
+    li.addEventListener("click", ()=>{
+        populateMain(playground)
+    })
+    })
+    })
+
+    document.querySelector("#playgroundList").append(li)
+})
+
+function populateList(array){
+array.forEach(playground =>{
+    const li =document.createElement("li");
+    li.textContent = playground.name
+    li.setAttribute("id", "playground " + playground.id);
+    li.addEventListener("mouseover", () =>{
+        li.textContent = (playground.name + ": " + playground.location)
+    li.addEventListener("mouseout", ()=>{
+        li.textContent = (playground.name)
+    li.addEventListener("click", ()=>{
+        populateMain(playground)
+    })
+    })
+    })
+
+    document.querySelector("#playgroundList").append(li)
+})
+
+}
